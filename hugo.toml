@@ -1,0 +1,4 @@
+baseURL = 'https://ysgOnline.github.io/'
+languageCode = 'en-us'
+title = 'My Blog YSG'
+theme = 'hugo-theme-stack'
